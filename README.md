@@ -11,11 +11,11 @@ Bar Chart - Number of Mice tested by Drug Regimen
 
 Pie Chart - Percentage of mice for each Gender
 
-Box and Whisker Plot - Tumor Volume of four frug types
+Box and Whisker Plot - Tumor Volume of four drug types
 
 Line Graph - Capolulin treatment of mouse y793
 
-Scatter Plot
+Scatter Plot - Tumor Volume vs. Mouse Weight
 
 
 
